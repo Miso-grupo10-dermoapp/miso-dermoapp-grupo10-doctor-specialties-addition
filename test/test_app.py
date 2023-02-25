@@ -8,7 +8,7 @@ import pytest
 
 import app
 
-TABLE_NAME = "Dermoapp-sprint1-doctor-DoctorDetails-HJ34HOQYTKA6"
+TABLE_NAME = "dermoapp-doctor"
 
 
 @pytest.fixture
